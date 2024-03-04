@@ -1,1 +1,6 @@
-# Euroleague
+# Explorating Pace, and Shot Distribution in Basketball
+In recent years, there has been a notable surge in scoring proficiency and overall efficiency within the NBA, marked by a significant increase in pace of play. This trend has led to a greater frequency of high-scoring games, redefining the landscape of professional basketball. However, it remains an open question as to whether similar patterns are evident in the Euroleague, the premier basketball competition in Europe, and if so, how these trends may differ from those observed in the NBA.
+
+To address this question, we propose an exploratory data analysis (EDA) to examine various statistical metrics and trends within the Euroleague dataset. By analyzing factors such as points scored per game, shooting percentages, and pace of play, we aim to gain insights into the evolving dynamics of European basketball and compare them to the trends observed in the NBA.
+
+Through this analysis, we seek to elucidate any similarities or divergences between the two leagues, shedding light on the broader trends shaping the modern game of basketball on a global scale. Such insights not only contribute to our understanding of the sport but also have implications for strategic decision-making within the basketball industry, from team management to player development and beyond.
